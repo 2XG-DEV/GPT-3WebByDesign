@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Description
+
+- Reusable React functional components 
+- Logical and Organized file and folder structure
+- Advanced CSS properties like Flexbox and Grid
+- CSS BEM Model
+- Soft and pleasant animations , complex gradients
+- Media queries for responsiveness covering almost all devices
+- Working Application hosted using firebase at : https://gpt3-3ec6c.web.app/
+
+This is a design created by ARShakir : https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
